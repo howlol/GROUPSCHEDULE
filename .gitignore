@@ -1,0 +1,11 @@
+# Виртуальные окружения
+venv/
+.venv/
+
+# Кэши Python
+__pycache__/
+*.pyc
+
+# Файлы базы данных
+database.db
+schedule.db
